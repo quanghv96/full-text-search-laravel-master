@@ -17,4 +17,18 @@ class SearchFacades extends Facade
         return 'Search';
     }
 
+    public function abc()
+    {
+
+    }
+
+    public function abc1()
+    {
+
+    }
+
+    public function abc2()
+    {
+
+    }
 }
